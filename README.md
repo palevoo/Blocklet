@@ -1,23 +1,19 @@
 # BLOCKLET
 
-An all-in-one Cryptocurrency wallet, built for IOS & Android mobile.
-
-## Features
-
-* Exchange Information for the provided currencies
-* Market Graph Information for popular currencies
-* Back end API of historical token prices (40+)
-* Currency calculator
-* Latest Cryptocurrency News
-* User Token Portfolio
-
-## Screenshots
-
 ![Awww](https://ipfs.io/ipfs/Qma9YERxPvMZhtJBPVbxXd3ZmXP7ZdBkF3jdBoMGvmSYjP "Yeah")
 ![Awww](https://ipfs.io/ipfs/QmTSBMyaMyxz2877F9Tow2QMt4pvhPmBuHnAnMsZ3HEyRU "Yeah")
 ![Awww](https://ipfs.io/ipfs/QmXY1Fzjqq3N1k95z7tqHh1Gkfg8ddg3ffaabhcFA83wGi "Yeah")
-![Awww](https://ipfs.io/ipfs/QmaisLR6dC2ENopMYbrzWFeapyzRDyPgc8pPDqjDAR2X7V "Yeah")
-![Awww](https://ipfs.io/ipfs/QmSZBiqxPApGGiYQNcWG1aFFCLaEcaky2KgugYkkjE4voP "Yeah")
+
+An all-in-one Cryptocurrency wallet, built for iOS & Android mobile.
+
+## Features
+
+* Exchange Information for the over 40 currencies
+* Market Graph Information for historical prices
+* Backend API of historical token prices (40+)
+* Currency calculator
+* Latest Cryptocurrency News
+* User Token Portfolio
 
 ## Usage
 
@@ -58,7 +54,7 @@ An all-in-one Cryptocurrency wallet, built for IOS & Android mobile.
 * Koa.js
 * MongoDB / Monk
 
-**Misc:**
+**API:**
 
 * Block.io API
 * Homemade API (historical prices)
